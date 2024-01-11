@@ -1,0 +1,53 @@
+.img2{
+    width: 950px
+   
+}
+.buy{
+    background-color: red;
+}
+.search{
+    width: 15px;
+   
+}
+.Fieldset{
+    background-image: url(img/house-for-sale_edgeprop.jpg);
+    width: fit-content;
+    align-items: center;
+    color: white;
+    border-radius: 100px 40px;
+    text-align: center;
+    direction: ltr;
+}
+
+.las1{
+width: fit-content;
+
+}
+.Fie{
+    background-color:#D3BCCC;
+    width: fit-content;
+    border-radius: 40px 30px;
+   
+}
+.las2{
+    width: 310px;
+}
+.img1{
+    width: 315px;
+}
+.Fiee{
+    background-color:#D0CE7C;
+    width: fit-content;
+    border-radius: 50px 40px;
+   
+}
+.imggg{
+    width: 30px;
+}
+.fieldes{
+    width: fit-content;
+    border-radius: 40px 20px;
+}
+.fild2{
+width: fit-content;
+}

@@ -1,0 +1,66 @@
+.img1{
+    height: 30px;
+}
+.fieldset1{
+    height: fit-content;
+    width: fit-content;
+    box-shadow: 1px 2px 3px 4px  rgb(255, 128, 128);
+}
+.fieldset2{
+    height: fit-content;
+    width: fit-content;
+    box-shadow: 1px 2px 3px 4px  rgb(238, 238, 133);
+}
+.fieldset3{
+    height: fit-content;
+    width: fit-content;
+    box-shadow: 1px 2px 3px 4px  rgb(94, 224, 94);
+}
+.fieldset4{
+    height: fit-content;
+    width: fit-content;
+    box-shadow: 1px 2px 3px 4px  rgb(228, 82, 82);
+}
+.fieldset5{
+    height: fit-content;
+    width: fit-content;
+    box-shadow: 1px 2px 3px 4px  rgb(231, 81, 206);
+}
+.fieldset6{
+    height: fit-content;
+    width: fit-content;
+    box-shadow: 1px 2px 3px 4px  rgb(123, 220, 255);
+}
+.fieldset7{
+    height: fit-content;
+    width: fit-content;
+    box-shadow: 1px 2px 3px 4px  rgb(222, 101, 183)
+}
+.fieldset8{
+    height: fit-content;
+    width: fit-content;
+    box-shadow: 1px 2px 3px 4px  rgb(97, 89, 117)
+    
+}
+.img2{
+    height: 30px;
+}
+
+.img4{
+    height: 90px;
+    align-items: center;
+}
+.img5{
+    height: 10px;
+    align-items: center;
+}
+.input{
+    background-color: red;
+    
+}
+.img3{
+    height: 30px;
+}
+.input1{
+color: white;
+}
