@@ -1,0 +1,50 @@
+.img{
+    width: 50px;
+}
+.img1{
+    width: 30px;
+}
+video{
+    width: 700px;
+}
+.fieldset1{
+background-color: rgb(24, 65, 24);
+width: fit-content;
+}
+.fieldset2{
+    background-color: rgb(69, 255, 69);
+    width: fit-content;
+    }
+.button{
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    background-color: black;
+    margin: 0 10px;
+    border-radius: 24px;
+    border: none;
+    font-size: 14px;
+    font-weight: 400;
+    cursor: pointer;
+
+}
+.fieldset3{
+    width: fit-content;
+    background-image: linear-gradient(to right top , red ,white  );
+}
+.fieldset4{
+    width: fit-content;
+    background-image: linear-gradient(to left top , green ,white  );
+
+}
+.fieldset5{
+    width: fit-content;
+    background-image: linear-gradient(to right bottom , blue ,white  );
+
+}
+.fieldset6{
+    width: fit-content;
+    background-image: linear-gradient(to left bottom ,yellow ,white  );
+
+}
