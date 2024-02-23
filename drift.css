@@ -1,0 +1,268 @@
+body{
+    background-image: linear-gradient(to right, #d62828,#fcbf49);
+}
+.logo{
+    width: 70px;
+    position: relative;
+    top: 10px;
+    z-index: 1;
+
+}
+.fa-house{
+    position: absolute;
+    top: 45px;
+    left: 850px;
+    z-index: 1;
+    color: white;
+
+}
+.fa-cart-shopping{
+    position: absolute;
+    top: 45px;
+    left: 950px;
+    z-index: 1;
+    color: white;
+
+
+}
+.fa-location-dot{
+    position: absolute;
+    top: 45px;
+    left: 1050px;
+    z-index: 1;
+    color: white;
+
+}
+.fa-user{
+    position: absolute;
+    top: 45px;
+    left: 1150px;
+    z-index: 1;
+    color: white;
+
+}
+
+.hr1{
+    width: 1214px;
+    height: 10px;
+    position: absolute;
+    top:75px;
+    left: 1px;
+   
+    background: black;
+}
+.hr4{
+    width: 1214px;
+    height: 10px;
+    position: absolute;
+    top:780px;
+    left: 1px;
+    
+    background: black;
+}
+video{
+    position: absolute;
+    top: 100px;
+    left: 1px;
+    width: 1215px;
+}
+.h8{
+    position: absolute;
+    top: 951px;
+    left: 450px;
+    font-size: 45px;
+   
+}
+.p1{
+    position: absolute;
+    top:  1030px;
+    left: 450px;
+    
+}
+.Destination{
+    position: absolute;
+    top: 1100px;
+    left: 450px;
+    width: 50px;
+    
+}
+.button1{
+    position: absolute;
+    top: 1150px;
+    left: 450px;
+    border-radius: 30px;
+    width: 150px;
+    height: 25px;
+    background: black;
+    color: white;
+    
+}
+.Drift{
+    position: absolute;
+    top: 1115px;
+    left: 650px;
+    width: 40px;
+}
+.button2{
+    position: absolute;
+    top: 1150px;
+    left: 650px;
+    border-radius: 30px;
+    width: 150px;
+    height: 25px;
+    background: black;
+    color: white;
+    
+}
+.dodge{
+    position: absolute;
+    top: 850px;
+    left: 500px;
+}
+.f1{
+    width: 1185px;
+    height: 250px;
+    position: absolute;
+    top: 1250px;
+    left: 0.5px;
+
+    background:linear-gradient(to right, #d62828,#fcbf49);
+    border-radius: 10px;
+}
+.f2{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 1250px;
+    left: 490px;
+    border-radius: 150px;
+    background:#d62828;
+}
+.GTR-logo{
+    width: 50px;
+    position: relative;
+    left: 75px;
+}
+.GTR-logo1{
+    width: 50px;
+    position: absolute;
+    left: 550px;
+}
+.GTR-logo2{
+    width: 30px;
+    position: absolute;
+    left: 1000px;
+    top: 20px;
+}
+.gtr1{
+    width: 80px;
+    position: absolute;
+    top: 50px;
+    left: 70px;
+    display: inline-block;
+  
+}
+.gtr2{
+    width: 80px;
+    position: absolute;
+    top: 150px;
+    left: 70px;
+    display: inline-block;
+  
+}
+.gtr3{
+    width: 80px;
+    position: absolute;
+    top: 80px;
+    left: 550px;
+    display: inline-block;
+  
+}
+.gtr4{
+    width: 80px;
+    position: absolute;
+    top: 80px;
+    left: 980px;
+    display: inline-block;
+  
+}
+.fa-circle-user{
+    position: absolute;
+    top: 80px;
+    left: 150px;
+}
+.h9{
+    display: inline-block;
+    position: absolute;
+    top: 60px;
+    left: 200px;
+}
+.fa-map-location-dot{
+    position: absolute;
+    top: 120px;
+    left: 150px;
+}
+.h10{
+    display: inline-block;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+.h11{
+    display: inline-block;
+    position: absolute;
+    top: 140px;
+    left: 200px;
+}
+.fa-ranking-star{
+    position: absolute;
+    top: 160px;
+    left: 150px;
+}
+.fa-user-tie{
+    position: absolute;
+    top: 80px;
+    left: 600px;
+}
+.fa-user-shield{
+    position: absolute;
+    top: 80px;
+    left: 1050px;
+}
+.fa-star{
+    position: absolute;
+    top: 120px;
+    left: 600px;
+}
+.fa-star-half-stroke{
+    position: absolute;
+    top: 120px;
+    left: 1050px;
+}
+.hr2{
+    width: 230px;
+    height: 5px;
+    position: relative;
+    top: 180px;
+    left: 3px;
+    background: black;
+}
+.hr3{
+    width: 180px;
+    height: 5px;
+    position: relative;
+    top: 150px;
+    left: 3px;
+    background: black;
+}
+.h12{
+    position: relative;
+    top: 160px;
+    left: 550px;
+    display: inline-block;
+}
+.h13{
+    position: relative;
+    top: 140px;
+    left: 75px;
+}
